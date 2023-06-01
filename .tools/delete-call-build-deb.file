@@ -1,0 +1,3 @@
+    "deletelist": [
+      ".github/workflows/call-build-deb.yml"
+    ],
